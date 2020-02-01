@@ -44,5 +44,4 @@ class Board
       self.cells[position.to_i-1] = player.token
   end
 
-
 end
